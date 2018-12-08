@@ -4,9 +4,9 @@
 
 0、mkdir bin && mkdir build
 
-1、cd build
-2、cmake ..
-3、make && make install
+* cd build
+* cmake ..
+* make && make install
 
 ## src
 only for study
