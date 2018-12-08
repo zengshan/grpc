@@ -1,7 +1,6 @@
 # grpc
 
 # environment
-# 提供ssl的环境
 
 # build
 
