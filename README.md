@@ -2,7 +2,6 @@
 
 # environment
 # 提供ssl的环境
-apt-get install libopenssl
 
 # build
 
